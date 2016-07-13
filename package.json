@@ -1,0 +1,23 @@
+{
+  "title": "ownCloud Bookmrks",
+  "name": "owncloudbookmarks",
+  "id": "firefox@owncloud.horwood.biz",
+  "version": "0.0.22",
+  "description": "Provides convenient access to ownCloud Bookmarks. To use this application you need to have access to ownCloud installation with Bookmarks extension enabled",
+  "main": "index.js",
+  "author": "Matthew Horwood",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bookmarks, owncloud"
+  ],
+  "icons": {
+    "16": "./img/icon-16.png",
+    "32": "./img/icon-32.png",
+    "64": "./img/icon-64.png"
+  },
+  "updateURL": "http://amhorwood.plus.com/ocbk/update.rdf",
+  "updateKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCjoVh8Tj5eZtSawv6wwDZCwV3m7lVfQ0eysF+Z6hppiSfM6Zd5Joodskf5nHRVIiRr5B2r8XZyAW9Fe1GxJpCuHoFstEaiGyNbDq4N6t7PTvR1tenApXQeo4nhl+FX4oZbNkF0mCPsywrglnscRBWMXKqQClorT6/wnuo7/l7YnwIDAQAB"
+}
