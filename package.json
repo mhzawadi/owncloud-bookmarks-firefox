@@ -2,7 +2,7 @@
   "title": "ownCloud Bookmrks",
   "name": "owncloudbookmarks",
   "id": "firefox@owncloud.horwood.biz",
-  "version": "0.0.22",
+  "version": "0.0.26",
   "description": "Provides convenient access to ownCloud Bookmarks. To use this application you need to have access to ownCloud installation with Bookmarks extension enabled",
   "main": "index.js",
   "author": "Matthew Horwood",
